@@ -1,0 +1,92 @@
+(0, value                                      13.1
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (EA)
+className                                      
+Name: 0, dtype: object)(1, value                                      16.5
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (EM)
+className                                      
+Name: 1, dtype: object)(2, value                                    9.5217
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (NE)
+className                                      
+Name: 2, dtype: object)(3, value                                   7.22161
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (NO)
+className                                      
+Name: 3, dtype: object)(4, value                                      15.8
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (NT)
+className                                      
+Name: 4, dtype: object)(5, value                                      17.6
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (NW)
+className                                      
+Name: 5, dtype: object)(6, value                                      11.1
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (SC)
+className                                      
+Name: 6, dtype: object)(7, value                                      16.3
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (SE)
+className                                      
+Name: 7, dtype: object)(8, value                                      11.9
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (SO)
+className                                      
+Name: 8, dtype: object)(9, value                                      9.64
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (SW)
+className                                      
+Name: 9, dtype: object)(10, value                                        14
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (WM)
+className                                      
+Name: 10, dtype: object)(11, value                                      1.76
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (WN)
+className                                      
+Name: 11, dtype: object)(12, value                                      7.33
+applicableAt                15/11/2024 09:58:30
+applicableFor                        15/11/2024
+generatedTimeStamp          15/11/2024 10:15:00
+qualityIndicator                               
+itemName              Demand Forecast, LDZ (WS)
+className                                      
+Name: 12, dtype: object)
